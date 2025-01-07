@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp"
+    }
+}
